@@ -1,5 +1,3 @@
-Ideausher practical demo task
-
 To start this demo task
 - npm install
 - npm start
